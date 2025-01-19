@@ -166,8 +166,8 @@ input {
 }
 
 input:focus {
-  border-color: #ffffff;
-  box-shadow: 0 0 2px rgba(76, 175, 80, 0.5);
+  border-color: #118b50;
+  box-shadow: 0 0 2px #4caf5080;
 }
 
 input.invalid {
